@@ -16,10 +16,9 @@
 ## 🛠️ Tecnologias e Ferramentas
 
 [![My Skills](https://skillicons.dev/icons?i=js,html)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=nodejs,discordjs,py,robloxstudio,ts,vscode&theme=light)](https://skillicons.dev)
-![Roblox-TS](https://img.shields.io/badge/Roblox--TS-F7DF1E?style=flat-square&logo=roblox&logoColor=black)
-![Rojo](https://img.shields.io/badge/Rojo-FF0000?style=flat-square&logo=roblox&logoColor=white)
-![Luau](https://img.shields.io/badge/Roblox-Luau-blue?style=for-the-badge&logo=roblox&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,discordjs,py,robloxstudio,vscode&theme=light)](https://skillicons.dev)
+<a href="https://roblox-ts.com/"><img height="50px" width="50px" src="https://github.com/user-attachments/assets/38c71ae9-2007-42e6-af0f-db395af752f8"></a>&nbsp;&nbsp;&nbsp;<a href="https://rojo.space/"><img height="50px" width="100px" src="https://github.com/user-attachments/assets/9e15aeac-d247-4de6-9fa1-16af656441a7"></a></br>
+<img src="https://skillicons.dev/icons?i=ts,lua,react&theme=dark">
 
 ---
 
