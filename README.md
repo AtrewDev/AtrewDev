@@ -19,6 +19,7 @@
 [![My Skills](https://skillicons.dev/icons?i=nodejs,discordjs,py,robloxstudio,ts,vscode&theme=light)](https://skillicons.dev)
 ![Roblox-TS](https://img.shields.io/badge/Roblox--TS-F7DF1E?style=flat-square&logo=roblox&logoColor=black)
 ![Rojo](https://img.shields.io/badge/Rojo-FF0000?style=flat-square&logo=roblox&logoColor=white)
+![Luau](https://img.shields.io/badge/Roblox-Luau-blue?style=for-the-badge&logo=roblox&logoColor=white)
 
 ---
 
