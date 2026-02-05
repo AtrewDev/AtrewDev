@@ -21,19 +21,3 @@
 <img src="https://skillicons.dev/icons?i=ts,lua,react&theme=dark">
 
 ---
-
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AtrewDev&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AtrewDev&theme=tokyonight" alt="Streak do GitHub">
-</p>
-
----
-
-<p align="center">
-  <img src="https://visit-counter.vercel.app/counter.png?page=github.com%2FAtrewDev&s=40&c=8978dd&bg=00000000&no=4&ff=linebeam&tb=&ta=+Visitantes%21" alt="visits">
-</p>
