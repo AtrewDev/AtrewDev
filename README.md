@@ -21,3 +21,4 @@
 <img src="https://skillicons.dev/icons?i=ts,lua,react&theme=dark">
 
 ---
+![snake gif](https://github.com/AtrewDev/AtrewDev/blob/output/github-snake-dark.svg)
